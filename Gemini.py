@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 import base64
 # API Key
-GOOGLE_API_KEY ="AIzaSyCS3BW1hhPOSX6OmGqYu-tIMKj7UniLMZw" # use your gemini api here 
+GOOGLE_API_KEY ="API KEY" # use your gemini api here 
 
 load_dotenv()
 
