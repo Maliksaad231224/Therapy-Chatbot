@@ -7,7 +7,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from huggingface_hub import InferenceClient
 import os
 import base64
-from firebase_admin import 
+
 
 model_name = "qazws345/DialogGPT_Psycho8k"
 tokenizer = AutoTokenizer.from_pretrained(model_name)   
